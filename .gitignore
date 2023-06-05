@@ -27,4 +27,4 @@ replay_pid*
 *.sh
 *.svg
 *.mze
-test/
+target/
